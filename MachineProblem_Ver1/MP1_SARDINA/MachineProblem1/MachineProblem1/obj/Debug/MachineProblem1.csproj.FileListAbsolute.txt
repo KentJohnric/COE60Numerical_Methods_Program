@@ -1,0 +1,11 @@
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\bin\Debug\MachineProblem1.exe.config
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\bin\Debug\MachineProblem1.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\bin\Debug\MachineProblem1.pdb
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.Form1.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.frmRegula.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.Properties.Resources.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem1\MachineProblem1\obj\Debug\MachineProblem1.pdb
