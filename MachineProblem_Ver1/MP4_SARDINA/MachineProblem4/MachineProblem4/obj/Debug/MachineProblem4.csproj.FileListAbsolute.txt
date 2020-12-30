@@ -1,0 +1,14 @@
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\bin\Debug\MachineProblem4.exe.config
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\bin\Debug\MachineProblem4.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\bin\Debug\MachineProblem4.pdb
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.CenteredFiniteCalc.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.Form1.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.LinearRegressionClac.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.NewtonInterpolationCalc.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.Properties.Resources.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.SimpsonsCalc.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem4\MachineProblem4\obj\Debug\MachineProblem4.pdb
