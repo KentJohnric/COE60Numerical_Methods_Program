@@ -1,0 +1,44 @@
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\bin\Debug\MachineProblem.exe.config
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\bin\Debug\MachineProblem.exe
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\bin\Debug\MachineProblem.pdb
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Form1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Properties.Resources.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csproj.GenerateResource.Cache
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.exe
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.pdb
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.RegulaFalsiUserControl.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.HomeUserControl.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.SecantUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csprojResolveAssemblyReference.cache
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.MP3UserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.MullersUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.GsUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.CroutsUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Mp4UserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.SimpsonRuleUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.CenteredFiniteUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.LinearRegressionUserControl1.resources
+C:\Users\Gaming\Desktop\COE60 Project\MachineProblem\MachineProblem\obj\Debug\MachineProblem.NewtonInterpolationUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\bin\Debug\MachineProblem.exe.config
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\bin\Debug\MachineProblem.exe
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\bin\Debug\MachineProblem.pdb
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.CenteredFiniteUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.CroutsUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Form1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.GsUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.HomeUserControl.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.LinearRegressionUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.MP3UserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Mp4UserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.MullersUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.NewtonInterpolationUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.Properties.Resources.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.RegulaFalsiUserControl.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.SecantUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.SimpsonRuleUserControl1.resources
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.exe
+C:\Users\Kent\Desktop\SARDINA MP 2017\MachineProblem\MachineProblem\obj\Debug\MachineProblem.pdb
