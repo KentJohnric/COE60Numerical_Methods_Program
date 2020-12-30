@@ -1,0 +1,11 @@
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\bin\Debug\MachineProblem2.exe.config
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\bin\Debug\MachineProblem2.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\bin\Debug\MachineProblem2.pdb
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.SecantWindow.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.frmSecant.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.Properties.Resources.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem2\MachineProblem2\obj\Debug\MachineProblem2.pdb

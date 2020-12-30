@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Secant_method
+
+
+https://mat.iitm.ac.in/home/sryedida/public_html/caimna/transcendental/iteration%20methods/secant/secant.html
