@@ -1,0 +1,26 @@
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.CroutsCalc.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.MainWindow.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.GsCalc2.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.MullersCalc.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.Properties.Resources.resources
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe.config
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.pdb
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.exe
+C:\Users\Kent\Desktop\Machine Problem Sardina\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.pdb
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe.config
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.exe
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\bin\Debug\MachineProblem3.pdb
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csprojResolveAssemblyReference.cache
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.CroutsCalc.resources
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.MainWindow.resources
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.GsCalc2.resources
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.MullersCalc.resources
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.Properties.Resources.resources
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.GenerateResource.Cache
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.csproj.CoreCompileInputs.cache
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.exe
+C:\Users\Kent\Desktop\School Files 1Q1718\COE60\Sardina MP\Machine Problems\MP3 SARDINA\MachineProblem3\MachineProblem3\obj\Debug\MachineProblem3.pdb
